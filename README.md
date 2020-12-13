@@ -16,4 +16,4 @@ Installed SAMBA Share add-on.
   see config in HA for more info
 Uploaded hacs.zip contents to:  
   /config/custom_components/hacs  
-
+Integration was installed into hassio.io
