@@ -12,3 +12,8 @@ homeassistant:
 
 HACS Installation
 Created custom_components folder in /config
+Installed SAMBA Share add-on.
+  see config in HA for more info
+Uploaded hacs.zip contents to:  
+  /config/custom_components/hacs  
+
