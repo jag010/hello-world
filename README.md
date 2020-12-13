@@ -9,3 +9,6 @@ homeassistant:
   longitude: -121.6555
   unit_system: imperial
   time_zone: America/Los_Angeles
+
+HACS Installation
+Created custom_components folder in /config
